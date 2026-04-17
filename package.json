@@ -3,6 +3,11 @@
     "pg": "^8.20.0"
   },
   "devDependencies": {
-    "@types/pg": "^8.18.0"
+    "@swc/core": "^1.15.26",
+    "@swc/helpers": "^0.5.21",
+    "@types/node": "^25.6.0",
+    "@types/pg": "^8.18.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
   }
 }
